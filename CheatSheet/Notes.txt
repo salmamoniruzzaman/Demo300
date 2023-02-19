@@ -1,0 +1,42 @@
+how to check Java is installed in computer ?
+-> java -version
+
+how to check 
+->echo %JAVA_HOME%
+
+how to check Git is installed in computer?
+-> git --version
+
+to check where I'm now? 
+-> pwd -- present working directory 
+
+how to check all the files in desktop?
+-> ls -al
+
+how to check which one is file and which one is folder?
+-> file name start with minus(-) is file & file start with (dr) is folder
+
+how to create a folder from GitBash?
+
+-> mkdir Demo300   ---- here 'Demo300' is the folder name
+
+how to go inside Demo300 / any folder
+
+cd Demo300 
+
+how to create a file in folder?
+
+-> touch Hello.txt -- so touch filename -- here file name is 'Hello.txt'
+
+how to read a file?
+-> cat Hello.txt - cat file name 
+
+how to add file to git?
+ -> git init 
+-> git add .
+
+How to save file in git?
+git init
+git add .
+git commint -m"This is new file" 
+
